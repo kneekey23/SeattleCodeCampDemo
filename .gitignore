@@ -1,0 +1,6 @@
+*.suo
+*.user
+*.vscode
+bin
+obj
+packages
