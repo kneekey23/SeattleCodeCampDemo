@@ -11506,11 +11506,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nickik\\Projects\\SeattleCodeCamp\\SeattleCodeCampDemo\\SeattleCodeCampDemo.csproj",
+      "projectUniqueName": "c:\\Users\\nickik\\Projects\\SeattleCodeCampDemo\\SeattleCodeCampDemo.csproj",
       "projectName": "SeattleCodeCampDemo",
-      "projectPath": "C:\\Users\\nickik\\Projects\\SeattleCodeCamp\\SeattleCodeCampDemo\\SeattleCodeCampDemo.csproj",
+      "projectPath": "c:\\Users\\nickik\\Projects\\SeattleCodeCampDemo\\SeattleCodeCampDemo.csproj",
       "packagesPath": "C:\\Users\\nickik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nickik\\Projects\\SeattleCodeCamp\\SeattleCodeCampDemo\\obj\\",
+      "outputPath": "c:\\Users\\nickik\\Projects\\SeattleCodeCampDemo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
